@@ -1,0 +1,19 @@
+{
+  "name": "siapi-provider-upload-rackspace",
+  "version": "3.6.5",
+  "description": "Rackspace provider for siapi upload",
+  "main": "./lib",
+  "keywords": [],
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "dependencies": {
+    "pkgcloud": "^2.0.0",
+    "streamifier": "^0.1.1"
+  },
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  },
+  "gitHead": "231263a3535658bab1e9492c6aaaed8692d62a53"
+}
